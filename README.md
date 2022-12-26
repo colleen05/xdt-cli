@@ -1,5 +1,5 @@
 # XDT CLI - A command-line tool for creating and modifying XDT files.
-**XDT CLI** provides functionality for manipulating XDT files (see: [bsmlib on GitHub](https://github.com/colleen05/libxdt)) with easy-to-use syntax.
+**XDT CLI** provides functionality for manipulating XDT files (see: [libxdt on GitHub](https://github.com/colleen05/libxdt)) with easy-to-use syntax.
 
 ## Building & Using
 ### Linux
