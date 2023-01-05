@@ -25,7 +25,7 @@ I haven't made an official Windows build script, but the provided `build_linux.s
 ## Syntax and Using XDT CLI
 Executing `xdt --help` will yield help on syntax and general use of XDT CLI:
 ```
-$ bsm --help
+$ xdt --help
 Usage: xdt <file> <action> [args...] [options...]
 
 Actions:
