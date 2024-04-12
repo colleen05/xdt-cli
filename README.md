@@ -1,6 +1,10 @@
 # XDT CLI - A command-line tool for creating and modifying XDT files.
 **XDT CLI** provides functionality for manipulating XDT files (see: [libxdt on GitHub](https://github.com/colleen05/libxdt)) with easy-to-use syntax.
 
+## :warning: :rotating_light: DISCONTINUED C++ PROJECT :rotating_light: :warning:
+I'm no longer using C++ for personal projects, thus this project's development has been discontinued.
+Check my GitHub or [**my website**](https://colleen05.me/) for projects coming in the future.
+
 ## Building & Using
 ### Linux
 **IMPORTANT:** You **MUST** have a `CXX` environment variable defined, and configured to be the path to your C++ compiler of choice.
